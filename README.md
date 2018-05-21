@@ -71,7 +71,7 @@ npm i && npm run dev
 
 ## 预览
 
-习惯管理、习惯首页、设置
+习惯管理、习惯首页、设置
 
 ![](http://omrbgpqyl.bkt.clouddn.com/18-5-17/32237664.jpg)
 
